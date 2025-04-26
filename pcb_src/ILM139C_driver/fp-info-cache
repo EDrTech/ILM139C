@@ -1,4 +1,4 @@
-25149483793479379
+25151229500117873
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -100974,6 +100974,13 @@ XDFN-8_L1.6-W1.2-P0.40-BL-EP
 0
 9
 9
+easyeda2kicad
+qwiic_3mm
+
+SparkFun
+0
+0
+0
 easyeda2kicad
 usdgoldfing
 
