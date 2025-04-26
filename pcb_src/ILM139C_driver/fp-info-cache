@@ -1,4 +1,4 @@
-25142500993548504
+25149483793479379
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -100604,6 +100604,13 @@ CONN-SMD-2P-P1.20_BM02B-ACHSS-GAN-TF-LF-SN
 4
 4
 easyeda2kicad
+CONN-SMD_4P-P1.00_HCTL_HC-1.0-4PWT
+
+
+0
+6
+6
+easyeda2kicad
 CONN-SMD_20P-L11.0-W7.38-P0.80
 
 
@@ -100624,6 +100631,27 @@ CONN-SMD_30P-P0.40_AXE630124D
 0
 34
 34
+easyeda2kicad
+CONN-SMD_40P-P0.40_AXE540127D
+
+
+0
+44
+44
+easyeda2kicad
+CONN-SMD_40P-P0.40_OK-14GM040-04
+
+
+0
+44
+44
+easyeda2kicad
+CONN-SMD_HC-1.0-2PWT
+
+
+0
+4
+4
 easyeda2kicad
 CONN-SMD_PH-2AWT
 

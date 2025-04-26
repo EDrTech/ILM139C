@@ -15,11 +15,11 @@
 	(condition "A.Type == 'Via'")
   # Choose between:
   # 1-2 Layers
-	(constraint hole_size (min 0.3mm))
+  # (constraint hole_size (min 0.3mm))
   # 4-6 Layers (more costly)
   # (constraint hole_size (min 0.15mm))
   # 4-6 Layers (preferred)
-	# (constraint hole_size (min 0.2mm))
+	(constraint hole_size (min 0.15mm))
 )
 
 (rule "JLCPCB: Via Annular Ring"
@@ -58,13 +58,6 @@
 	(constraint annular_width (min 0.25mm))
 )
 
-# An expensive 4-Wire Kelvin Test is automatically added for holes that are < 0.3mm with a diameter ≤ 0.4mm.
-(rule "JLCPCB: Avoid 4-Wire Kelvin Test"
-	(condition "(A.Type == 'Via' && A.Hole < 0.3mm && A.Diameter <= 0.4mm) || (A.Type == 'Pad' && ((A.Hole_Size_X < 0.3mm && A.Size_X <= 0.4mm) || (A.Hole_Size_Y < 0.3mm && A.Size_Y <= 0.4mm)))")
-  # 4-6 Layers
-  (constraint annular_width (min 0.125mm))
-)
-
 
 # --- Minimum Clearance ---
 
@@ -100,8 +93,8 @@
 	(constraint hole_to_hole (min 0.2mm))
 )
 
-(rule "JLCPCB: Via to Trace"
-	(condition "A.Type == 'Via' && B.Type == 'Track'")
+(rule "JLCPCB: Via to Trace (Different nets)"
+	(condition "(A.Type == 'Via' && B.Type == 'Track') && A.Net != B.Net")
 	(constraint hole_clearance (min 0.2mm))
 )
 
@@ -166,33 +159,13 @@
 )
 
 
-# --- Legend ---
-
-(rule "JLCPCB: Minimum Line Width"
-	(layer "?.Silkscreen")
-	(condition "A.Type == 'Text' || A.Type == 'Text Box'")
-	(constraint text_thickness (min 0.15mm))
-)
-
-(rule "JLCPCB: Minimum Text Height"
-	(layer "?.Silkscreen")
-	(condition "A.Type == 'Text' || A.Type == 'Text Box'")
-	(constraint text_height (min 1mm))
-)
-
-(rule "JLCPCB: Pad to Silkscreen"
-	(condition "A.Type == 'Pad' && ((A.existsOnLayer('F.Mask') && B.Layer == 'F.Silkscreen') || (A.existsOnLayer('B.Mask') && B.Layer == 'B.Silkscreen')) ")
-	(constraint silk_clearance (min 0.15mm))
-)
-
-
 # --- Board Outlines ---
 
 (rule "JLCPCB: Trace to Board Edge"
 	(condition "A.Type == 'Track'")
   # Choose between:
   # Routed
-	# (constraint edge_clearance (min 0.3mm))
+	(constraint edge_clearance (min 0.3mm))
   # V-Cut Panel
-	(constraint edge_clearance (min 0.4mm))
+	# (constraint edge_clearance (min 0.4mm))
 )
