@@ -3576,7 +3576,7 @@
 		(path "/de1fd2dc-5ed7-4ea3-a1ca-41b38c25f4a8")
 		(sheetname "/")
 		(sheetfile "ILM139C.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.237258 -0.5225)
 			(end 0.237258 -0.5225)
@@ -10250,7 +10250,7 @@
 		(path "/338c87e3-4e9b-4a94-9dc3-d1b29b8be4b4")
 		(sheetname "/")
 		(sheetfile "ILM139C.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.237258 -0.5225)
 			(end 0.237258 -0.5225)
@@ -11960,7 +11960,7 @@
 		(path "/91d6298a-d254-4343-ad59-05c301c9e916")
 		(sheetname "/")
 		(sheetfile "ILM139C.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.237258 -0.5225)
 			(end 0.237258 -0.5225)

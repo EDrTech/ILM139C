@@ -542,9 +542,9 @@
       "plot": "Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "ILM139C.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "ILM139C.wrl"
     },
     "page_layout_descr_file": ""
   },
