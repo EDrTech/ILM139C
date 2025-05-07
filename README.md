@@ -68,4 +68,3 @@ To program this module you will need a microcontroller or similar that can conne
 
 
 ![illumicro Series](docs/visual/illumicro_fbanner.png)
-
