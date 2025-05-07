@@ -33,7 +33,7 @@ high density and high brightness displays.
 &nbsp;
 &nbsp;
 <p>
-<img src="/docs/visual/battiny_guard_dk_isov.png" align="right" width="35%"/>
+<img src="/docs/visual/ILM139CM_iso_3d_top.png" align="right" width="35%"/>
 
 - 13x9 1mm*1mm RBG LED matrix with 2mm pitch
 - ISFL Driver
@@ -66,10 +66,6 @@ high density and high brightness displays.
 
 To program this module you will need a microcontroller or similar that can connect to the module over i2c.
 
----------------------------------------------------------------------------------
-
-
-![illumicro Series](docs/visual/illumicro_fbanner.png)
 
 
 ---------------------------------------------------------------------------------
@@ -80,3 +76,13 @@ To program this module you will need a microcontroller or similar that can conne
   [<img src="docs/visual/certification-mark-HR000117-wide.svg" style="width: 25%">](https://certification.oshwa.org/hr000117.html)
   
 </p>
+
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+![illumicro Series](docs/visual/illumicro_fbanner.png)
+
