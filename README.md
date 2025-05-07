@@ -72,7 +72,7 @@ To program this module you will need a microcontroller or similar that can conne
 ---------------------------------------------------------------------------------
 # Illumicro Series
 
-![illumicro Series](docs/visual/battiny_series_banner.png)
+![illumicro Series](docs/visual/illumicro_fbanner.png)
 
 
 ---------------------------------------------------------------------------------
