@@ -1,6 +1,7 @@
 ![Banner](docs/visual/ILM139C_banner.png)
-
-
+&nbsp;
+&nbsp;
+&nbsp;
 ---------------------------------------------------------------------------------
 # Illumicro ILM139C 13x9 RGB LED matrix
 
@@ -26,15 +27,11 @@ high density and high brightness displays.
 &nbsp;
 &nbsp;
 &nbsp;
-![Feature overview](docs/visual/info.png)
-&nbsp;
-&nbsp;
-&nbsp;
 &nbsp;
 &nbsp;
 <p>
-<img src="/docs/visual/ILM139CM_iso_3d_top.png" align="right" width="25%"/>
-<img src="/docs/visual/ILM139CD_iso_3d_top.png" align="right" width="25%"/>
+<img src="/docs/visual/ILM139CM_vert_3d_top.png" align="right" width="25%"/>
+<img src="/docs/visual/ILM139CD_vert_3d_top.png" align="right" width="25%"/>
 
 - 13x9 1mm*1mm RBG LED matrix with 2mm pitch
 - ISFL Driver
@@ -43,23 +40,17 @@ high density and high brightness displays.
 - Power over QWIIC jumper ???
 - Removable driver/matrix board
 - Power supply connector
-
-<br clear="right"/>
 </p>
 
----------------------------------------------------------------------------------
-<p align="left">
-  <a href="/docs/ILM139C_datasheet.pdf"><img src="docs/visual/badges/Module-Datasheet-1E90FF.svg"></a>
-  <a href="/docs/schematics/ILM139C_schematic.pdf"><img src="docs/visual/badges/Module-Schematic-1E90FF.svg"></a>
-  <a href="ILM139C Demo code"><img src="docs/visual/badges/Module-Code-1E90FF.svg"></a>
-  <a href="/docs/bom/ILM139C_bom_partlist.pdf"><img src="docs/visual/badges/Module-BOM-1E90FF.svg"></a>
-</p>
 
 ---------------------------------------------------------------------------------
 <p align="left">
-  <a href="docs/schematics/ILM139C_schematic.pdf"><img src="docs/visual/badges/Demo_Board-Schematic-1E90FF.svg"></a>
-  <a href="docs/bom/bATtiny_guard_demo_board_bom_partlist.pdf"><img src="docs/visual/badges/Demo_Board-BOM-1E90FF.svg"></a>
+  <a href="/docs/ILM139C_datasheet.pdf"><img src="docs/visual/badges/module_datasheet.svg"></a>
+  <a href="/docs/schematics/ILM139C_schematic.pdf"><img src="docs/visual/badges/module_schematic.svg"></a>
+  <a href="ILM139C Demo code"><img src="docs/visual/badges/module_demo_code.svg"></a>
+  <a href="/docs/bom/ILM139C_bom_partlist.pdf"><img src="docs/visual/badges/module_bom.svg"></a>
 </p>
+
 
 ---------------------------------------------------------------------------------
 
@@ -70,15 +61,6 @@ To program this module you will need a microcontroller or similar that can conne
 
 
 ---------------------------------------------------------------------------------
-# [License](LICENSE)
-
-<p align="left">
-  
-  [<img src="docs/visual/certification-mark-HR000117-wide.svg" style="width: 25%">](https://certification.oshwa.org/hr000117.html)
-  
-</p>
-
-
 
 &nbsp;
 &nbsp;
