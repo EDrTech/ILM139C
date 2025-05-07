@@ -1,6 +1,7 @@
 ![Banner](docs/visual/ILM139C_banner.png)
-
-
+&nbsp;
+&nbsp;
+&nbsp;
 ---------------------------------------------------------------------------------
 # Illumicro ILM139C 13x9 RGB LED matrix
 
@@ -29,9 +30,8 @@ high density and high brightness displays.
 &nbsp;
 &nbsp;
 <p>
-<img src="/docs/visual/ILM139CM_vert_3d_top.png" align="right" width="20%"/>
-
-<img src="/docs/visual/ILM139CD_vert_3d_top.png" align="right" width="20%"/>
+<img src="/docs/visual/ILM139CM_vert_3d_top.png" align="right" width="25%"/>
+<img src="/docs/visual/ILM139CD_vert_3d_top.png" align="right" width="25%"/>
 
 - 13x9 1mm*1mm RBG LED matrix with 2mm pitch
 - ISFL Driver
