@@ -29,20 +29,27 @@ high density and high brightness displays.
 &nbsp;
 &nbsp;
 &nbsp;
-<p>
-<img src="/docs/visual/ILM139CM_vert_3d_top.png" align="right" width="25%"/>
-<img src="/docs/visual/ILM139CD_vert_3d_top.png" align="right" width="25%"/>
+<table>
+<tr>
+<td width="50%">
 
-- 13x9 1mm*1mm RBG LED matrix with 2mm pitch
-- ISFL Driver
-- QWIIC Connector
-- Selectable i2c address
-- Power over QWIIC jumper ???
-- Removable driver/matrix board
+- 13x9 1mm×1mm RGB LED matrix with 2mm pitch  
+- ISFL Driver  
+- QWIIC Connector  
+- Selectable I²C address  
+- Power over QWIIC jumper ???  
+- Removable driver/matrix board  
 - Power supply connector
 
-<br clear="right"/>
-</p>
+</td>
+<td width="50%" align="center">
+
+<img src="/docs/visual/ILM139CM_vert_3d_top.png" width="50%"/><br>
+<img src="/docs/visual/ILM139CD_vert_3d_top.png" width="50%"/>
+
+</td>
+</tr>
+</table>
 
 ---------------------------------------------------------------------------------
 <p align="left">
