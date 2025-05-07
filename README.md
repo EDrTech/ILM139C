@@ -34,6 +34,7 @@ high density and high brightness displays.
 &nbsp;
 <p>
 <img src="/docs/visual/ILM139CM_iso_3d_top.png" align="right" width="25%"/>
+
 <img src="/docs/visual/ILM139CD_iso_3d_top.png" align="right" width="25%"/>
 
 - 13x9 1mm*1mm RBG LED matrix with 2mm pitch
@@ -86,4 +87,3 @@ To program this module you will need a microcontroller or similar that can conne
 
 
 ![illumicro Series](docs/visual/illumicro_fbanner.png)
-
