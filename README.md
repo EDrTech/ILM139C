@@ -1,4 +1,4 @@
-![Banner](docs/visual/illumicro_banner.png)
+![Banner](docs/visual/ILM139C_banner.png)
 
 
 ---------------------------------------------------------------------------------
@@ -48,8 +48,8 @@ high density and high brightness displays.
 
 ---------------------------------------------------------------------------------
 <p align="left">
-  <a href="ILM139C_datasheet.pdf"><img src="docs/visual/badges/Module-Datasheet-1E90FF.svg"></a>
-  <a href="docs/schematics/ILM139C_schematic.pdf"><img src="docs/visual/badges/Module-Schematic-1E90FF.svg"></a>
+  <a href="/docs/ILM139C_datasheet.pdf"><img src="docs/visual/badges/Module-Datasheet-1E90FF.svg"></a>
+  <a href="/docs/schematics/ILM139C_schematic.pdf"><img src="docs/visual/badges/Module-Schematic-1E90FF.svg"></a>
   <a href="ILM139C Demo code"><img src="docs/visual/badges/Module-Code-1E90FF.svg"></a>
   <a href="/docs/bom/ILM139C_bom_partlist.pdf"><img src="docs/visual/badges/Module-BOM-1E90FF.svg"></a>
 </p>
@@ -68,9 +68,6 @@ To program this module you will need a microcontroller or similar that can conne
 
 ---------------------------------------------------------------------------------
 
-
----------------------------------------------------------------------------------
-# Illumicro Series
 
 ![illumicro Series](docs/visual/illumicro_fbanner.png)
 
