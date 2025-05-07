@@ -26,10 +26,6 @@ high density and high brightness displays.
 &nbsp;
 &nbsp;
 &nbsp;
-![Feature overview](docs/visual/info.png)
-&nbsp;
-&nbsp;
-&nbsp;
 &nbsp;
 &nbsp;
 <p>
