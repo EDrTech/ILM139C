@@ -3,6 +3,12 @@
 &nbsp;
 &nbsp;
 &nbsp;
+---------------------------------------------------------------------------------
+> [!NOTE]
+> <p>
+> This project is currently work in progress and untested!
+><br clear="right"/>
+></p>
 
 ---------------------------------------------------------------------------------
 # Illumicro ILM139C 13x9 RGB LED matrix
