@@ -3,6 +3,21 @@
 &nbsp;
 &nbsp;
 &nbsp;
+
+###### <sub>Quick access</sub>
+---------------------------------------------------------------------------------
+
+<p align="center">
+  <a href="/docs/ILM139C_datasheet.pdf"><img src="docs/visual/badges/module_datasheet.svg"></a>
+  <a href="/docs/schematics/ILM139C_schematic.pdf"><img src="docs/visual/badges/module_schematic.svg"></a>
+  <a href="ILM139C Demo code"><img src="docs/visual/badges/module_demo_code.svg"></a>
+  <a href="/docs/bom/ILM139C_bom_partlist.pdf"><img src="docs/visual/badges/module_bom.svg"></a>
+</p>
+
+---------------------------------------------------------------------------------
+&nbsp;
+&nbsp;
+&nbsp;
 ---------------------------------------------------------------------------------
 > [!WARNING]
 > <p>
@@ -57,19 +72,6 @@ high density and high brightness displays.
 &nbsp;
 &nbsp;
 
----------------------------------------------------------------------------------
-
-<p align="center">
-  <a href="/docs/ILM139C_datasheet.pdf"><img src="docs/visual/badges/module_datasheet.svg"></a>
-  <a href="/docs/schematics/ILM139C_schematic.pdf"><img src="docs/visual/badges/module_schematic.svg"></a>
-  <a href="ILM139C Demo code"><img src="docs/visual/badges/module_demo_code.svg"></a>
-  <a href="/docs/bom/ILM139C_bom_partlist.pdf"><img src="docs/visual/badges/module_bom.svg"></a>
-</p>
-
----------------------------------------------------------------------------------
-&nbsp;
-&nbsp;
-&nbsp;
 
 # ILM139C Module pinout
 
