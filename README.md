@@ -4,9 +4,9 @@
 &nbsp;
 &nbsp;
 ---------------------------------------------------------------------------------
-> [!NOTE]
+> [!WARNING]
 > <p>
-> This project is currently work in progress and untested!
+> This project is currently under active development. It is experimental, untested, and may not function as intended. Use at your own risk.
 ><br clear="right"/>
 ></p>
 
