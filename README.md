@@ -14,7 +14,7 @@
 # Illumicro ILM139C 13x9 RGB LED matrix
 
 ILM139C Is an RGB LED module with a matrix of 13x9 RGB LEDs.
-It is based on the ISFL LED matrix driver, which provides an i2c interface for full control of
+It is based on the IS31FL3741A LED matrix driver, which provides an i2c interface for full control of
 individual LEDs which is accessible with a standard QWIIC connector. 
 QWIIC Connector allows for up to 4 modules to be connected together on a single i2c bus.
 Small form factor of 26mm*18mm and 2mm pitch of LEDs allows for creating small 
@@ -38,21 +38,28 @@ high density and high brightness displays.
 &nbsp;
 &nbsp;
 <p>
+
 <img src="/docs/visual/ILM139CM_vert_3d_top.png" align="right" width="25%"/>
 <img src="/docs/visual/ILM139CD_vert_3d_top.png" align="right" width="25%"/>
   
-- 13x9 1mm*1mm RBG LED matrix with 2mm pitch
-- ISFL Driver
+- Very small footprint of 26mm*18mm
+- 13x9 RBG LED matrix
+- 1mm*1mm LEDs, with 2mm pitch
+- IS31FL3741A Driver
+- 2.7V~5.5V Operating voltage
 - QWIIC Connector
 - Selectable i2c address
-- Power over QWIIC jumper ???
-- Removable driver/matrix board
-- Power supply connector
+- Removable driver/matrix boards
+- Separate power supply connector
+  
 </p>
+&nbsp;
+&nbsp;
+&nbsp;
 
 ---------------------------------------------------------------------------------
 
-<p align="left">
+<p align="center">
   <a href="/docs/ILM139C_datasheet.pdf"><img src="docs/visual/badges/module_datasheet.svg"></a>
   <a href="/docs/schematics/ILM139C_schematic.pdf"><img src="docs/visual/badges/module_schematic.svg"></a>
   <a href="ILM139C Demo code"><img src="docs/visual/badges/module_demo_code.svg"></a>
@@ -60,8 +67,11 @@ high density and high brightness displays.
 </p>
 
 ---------------------------------------------------------------------------------
+&nbsp;
+&nbsp;
+&nbsp;
 
-# ILM139C Module pinout/connection
+# ILM139C Module pinout
 
 <p align="center">
   <img src="/docs/visual/ILM139C_pinout.png" align="center" width="80%"/>
@@ -71,7 +81,8 @@ high density and high brightness displays.
 
 # Installation and set up
 
-To program this module you will need a microcontroller or similar that can connect to the module over i2c.
+Connect QWIIC cable to one of the available connectors on the bottom of the module. If you want to power the module over QWIIC, the jumper resistor should be soldered on the bottom of the module. If the jumper is present, DO NOT connect external power supply as it will short to 3.3V of the QWIIC!
+The module can be programmed over i2c, a library is currently under development to allow straightforward integration with and i2c capable device.
 
 &nbsp;
 &nbsp;
