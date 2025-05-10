@@ -578,7 +578,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Gerbers/",
+      "plot": "./production",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "ILM139C.step",
