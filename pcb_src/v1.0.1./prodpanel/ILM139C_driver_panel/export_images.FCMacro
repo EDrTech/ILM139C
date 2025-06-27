@@ -1,0 +1,31 @@
+
+import time
+from PySide2 import QtWidgets
+
+vrml_file = r"/home/erik/Documents/repos/ILM139C/pcb_src/ILM139C_driver/ILM139C.wrl"
+print(f"Filepath: {vrml_file}")
+
+doc = FreeCAD.newDocument("RenderDoc")
+obj = doc.addObject("App::VRMLObject", "VRMLModel")
+obj.VrmlFile = vrml_file
+obj.Label = "VRMLModel"
+doc.recompute()
+
+view = FreeCADGui.ActiveDocument.ActiveView
+
+# Get Qt app and main window to help force render updates
+app = QtWidgets.QApplication.instance()
+views = ["Top", "Front", "Right", "Left", "Isometric"]
+
+for name in views:
+    getattr(view, f"view{name}")()
+    view.fitAll()
+    # Ensure the GUI processes the redraw before saving image
+    for _ in range(20):  # ~2 sec total
+        app.processEvents()
+        time.sleep(0.1)
+    img_path = vrml_file.replace(".wrl", f"_{name}.png")
+    view.saveImage(img_path, 1920, 1080, "White")
+    print(f"Saved: {img_path}")
+
+FreeCAD.closeDocument("RenderDoc")
