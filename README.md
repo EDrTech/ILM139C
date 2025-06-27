@@ -8,10 +8,10 @@
 ---------------------------------------------------------------------------------
 
 <p align="center">
-  <a href="/docs/ILM139C_datasheet.pdf"><img src="docs/visual/badges/module_datasheet.svg"></a>
-  <a href="/docs/schematics/ILM139C_schematic.pdf"><img src="docs/visual/badges/module_schematic.svg"></a>
+  <a href="/docs/datasheet_src/datasheet01.pdf"><img src="docs/visual/badges/module_datasheet.svg"></a>
+  <a href="/docs/schematics"><img src="docs/visual/badges/module_schematic.svg"></a>
   <a href="/code_src/ilm139c_battiny_demo_allcombined/ilm139c_battiny_demo_allcombined.ino"><img src="docs/visual/badges/module_demo_code.svg"></a>
-  <a href="/docs/bom/ILM139C_bom_partlist.pdf"><img src="docs/visual/badges/module_bom.svg"></a>
+  <a href="/docs/bom/ILM139C_matrix_bom.csv"><img src="docs/visual/badges/module_bom.svg"></a>
 </p>
 
 ---------------------------------------------------------------------------------
