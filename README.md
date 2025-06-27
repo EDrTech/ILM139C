@@ -10,7 +10,7 @@
 <p align="center">
   <a href="/docs/ILM139C_datasheet.pdf"><img src="docs/visual/badges/module_datasheet.svg"></a>
   <a href="/docs/schematics/ILM139C_schematic.pdf"><img src="docs/visual/badges/module_schematic.svg"></a>
-  <a href="ILM139C Demo code"><img src="docs/visual/badges/module_demo_code.svg"></a>
+  <a href="/code_src/ilm139c_battiny_demo_allcombined/ilm139c_battiny_demo_allcombined.ino"><img src="docs/visual/badges/module_demo_code.svg"></a>
   <a href="/docs/bom/ILM139C_bom_partlist.pdf"><img src="docs/visual/badges/module_bom.svg"></a>
 </p>
 
@@ -21,7 +21,7 @@
 ---------------------------------------------------------------------------------
 > [!WARNING]
 > <p>
-> This project is currently under active development. It is experimental, untested, and may not function as intended. Use at your own risk.
+> This project is currently under active development. It is experimental, and may not function as intended. The source files might not exactly match tested hardware if you can see this message. Use at your own risk.
 ><br clear="right"/>
 ></p>
 
