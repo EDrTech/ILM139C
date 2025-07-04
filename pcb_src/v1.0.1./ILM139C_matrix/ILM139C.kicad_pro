@@ -735,7 +735,7 @@
       "plot": "./production",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "ILM139C.step",
+      "step": "ILM139C_matrix_model.step",
       "svg": "",
       "vrml": "ILM139C.wrl"
     },

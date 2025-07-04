@@ -1,4 +1,4 @@
-130732739120674
+153503612479185
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -102774,6 +102774,13 @@ FPC-SMD_10P-P1.00_HDGC_1.0K-1.5W-10PWB
 12
 12
 easyeda2kicad
+FXLS8974CFR3
+FXLS8974CFR3-3
+Integrated Circuit
+0
+10
+10
+easyeda2kicad
 HDR-SMD_4P-P2.54-H-F
 
 
@@ -102794,6 +102801,13 @@ HDR-SMD_X1311WRS-03J-C40D42
 0
 3
 3
+easyeda2kicad
+IND-SMD_L4.0-W4.0
+
+
+0
+2
+2
 easyeda2kicad
 KEY-SMD_KSS-2G
 
@@ -102907,6 +102921,13 @@ LED1206-RD_RED_LTST-C230CKT
 2
 2
 easyeda2kicad
+PAD-SMD_L5.0-W2.0_STHW4-DU-HN050206
+
+
+0
+1
+1
+easyeda2kicad
 POWERPAK-1212-8_L3.1-W3.1-P0.65-LS3.3-BL
 
 
@@ -102927,6 +102948,13 @@ QFN-16_L3.0-W3.0-P0.50-TL_FXOS8700CQR1
 0
 16
 16
+easyeda2kicad
+QFN-20_L3.0-W3.0-P0.40-BL-EP1.7
+
+
+0
+21
+21
 easyeda2kicad
 QFN-28_L4.0-W4.0-P0.40-BL-EP
 
@@ -102963,7 +102991,28 @@ RES-SMD_RK14J12R0A0C
 9
 9
 easyeda2kicad
+SMD-1_BD2.0-H3.0
+
+
+0
+1
+1
+easyeda2kicad
+SMD-1_L3.0-W2.0-H1.5
+
+
+0
+1
+1
+easyeda2kicad
 SMD_BD1.8-L1.8-W1.8
+
+
+0
+1
+1
+easyeda2kicad
+SMD_BD2.0-H2.5
 
 
 0
@@ -102991,12 +103040,26 @@ SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR
 5
 5
 easyeda2kicad
+SOT-23-8_L3.0-W1.7-P0.65-LS2.8-BR
+
+
+0
+8
+8
+easyeda2kicad
 SOT-25-5_L3.0-W1.6-P0.95-LS2.8-BL
 
 
 0
 5
 5
+easyeda2kicad
+SOT-563_L1.6-W1.2-P0.50-LS1.6-BR
+
+
+0
+6
+6
 easyeda2kicad
 SOT-583-8_L2.1-W1.2-P0.50-LS1.6-BL
 
@@ -103082,6 +103145,13 @@ TSSOP-24_L7.8-W4.4-P0.65-LS6.4-BL
 24
 24
 easyeda2kicad
+UQFN-10_L2.0-W1.5-P0.50-BL-EP
+
+
+0
+10
+10
+easyeda2kicad
 USB-C-SMD
 
 
@@ -103124,6 +103194,20 @@ VQFN-HR-15_L3.0-W2.5-P0.50-BL_TPS63070RNMR
 15
 15
 easyeda2kicad
+VSSOP-10_L3.0-W3.0-P0.50-LS4.9-BL
+
+
+0
+10
+10
+easyeda2kicad
+WIRELM-SMD_ESP32-S3-WROOM-1
+
+
+0
+49
+41
+easyeda2kicad
 XDFN-8_L1.6-W1.2-P0.40-BL-EP
 
 
@@ -103165,3 +103249,10 @@ usdgoldfing
 0
 8
 8
+edrtech_lib
+Untitled
+
+
+0
+0
+0

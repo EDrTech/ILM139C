@@ -581,7 +581,7 @@
       "plot": "./production",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "ILM139C.step",
+      "step": "ILM139C_driver_model.step",
       "svg": "",
       "vrml": ""
     },
