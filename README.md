@@ -25,6 +25,9 @@
 ---------------------------------------------------------------------------------
 # Illumicro ILM139C 13x9 RGB LED matrix
 
+<p align="center">
+  <img src="/docs/visual/ILM139C_bwig.png" align="center" width="80%"/>
+</p>
 ILM139C Is an RGB LED module with a matrix of 13x9 RGB LEDs.
 It is based on the IS31FL3741A LED matrix driver, which provides an i2c interface for full control of
 individual LEDs which is accessible with a standard QWIIC connector. 
