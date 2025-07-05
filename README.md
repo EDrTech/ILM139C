@@ -1,9 +1,6 @@
 ![Banner](docs/visual/ILM139C_banner.png)
-
+![Banner](docs/visual/ILM139C_4asm_3d.png)
 &nbsp;
-&nbsp;
-&nbsp;
-
 ###### <sub>Quick access</sub>
 ---------------------------------------------------------------------------------
 
@@ -54,8 +51,7 @@ high density and high brightness displays.
 &nbsp;
 <p>
 
-<img src="/docs/visual/ILM139CM_vert_3d_top.png" align="right" width="25%"/>
-<img src="/docs/visual/ILM139CD_vert_3d_top.png" align="right" width="25%"/>
+<img src="/docs/visual/ILM139C_asm_top_3d.png" align="right" width="50%"/>
   
 - Very small footprint of 26mm*18mm
 - 13x9 RBG LED matrix
