@@ -35,9 +35,8 @@ QWIIC Connector allows for up to 4 modules to be connected together on a single 
 Small form factor of 26mm*18mm and 2mm pitch of LEDs allows for creating small 
 high density and high brightness displays.
 
-<p align="center">
-  <video src='/docs/visual/ILM139C_demo.mp4'/>
-</p>
+
+https://github.com/user-attachments/assets/0ada246c-68c4-4b34-9f10-4a2aee3bf7c3
 
 &nbsp;
 &nbsp;
